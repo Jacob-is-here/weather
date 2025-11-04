@@ -1,0 +1,22 @@
+{
+  "lessons": [
+    {
+      "id": 0,
+      "title": "Podstawowe słówka",
+      "questions": [
+        {
+          "id": 0,
+          "prompt": "Jak przetłumaczysz 'kot' na angielski?",
+          "choices": ["dog", "cat", "mouse", "bird"],
+          "answer": 1
+        },
+        {
+          "id": 1,
+          "prompt": "Co znaczy 'hello'?",
+          "choices": ["cześć", "do widzenia", "proszę", "dziękuję"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
